@@ -13,7 +13,7 @@ This repository contains the data and code supporting the manuscript:
 
 **Corresponding author:** Cihan Tuncer (cituncer@iski.gov.tr)
 
-**Status:** Submitted to *Journal of Hydrology* [DOI:/Citation:]
+**Status:** Submitted to *Journal* [DOI:/Citation:]
 
 ## Overview
 
